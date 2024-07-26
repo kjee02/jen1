@@ -1,3 +1,4 @@
 #! /bin/bash
 
-mkdir ./test#! /bin/bash
+mkdir ./test
+mkdir ./test1
